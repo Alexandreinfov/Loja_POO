@@ -4,6 +4,7 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {
+        //teste
         /*Endereco endereco = new Endereco();
         endereco.setRua("Endereço qualquer");
         System.out.println(endereco.getRua());*/
